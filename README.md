@@ -6,3 +6,4 @@ GSAP Animation: Split text animation added to the description of each encryption
 this is the link for the website as hosted on github: https://smansi-17.github.io/Secret-Messages/ 
 
 But, I am running into a GSAP Error of an old version of Plugin I used in VS Code. I used the GSAP Snippets extension by Hridoy on VS Code extensions.
+The file works fine on my Local Server. I have attached a video recording of it working on my Local Server here: https://drive.google.com/file/d/15VaMfqRsszvIZpXHvv3Mwr-1XZoXdsJB/view?usp=sharing 
