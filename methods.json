@@ -1,0 +1,29 @@
+[
+  {
+    "id": "morse",
+    "name": "Morse Code",
+    "description": "Morse Code is a method of encoding text characters using sequences of dots and dashes. This method of encryption is of an Easy Level, as it becomes easy to uncover the message with knowledge of Morese Code, or access to a key. The reciever of the message can decode your message easily if they are aware of the workings of morse code."
+  },
+  {
+    "id": "caesar",
+    "name": "Caesar Cipher",
+    "description": "Caesar Cipher replaces each letter with the next letter in the alphabet. This method of encryption is of a Difficult Level. If the reciever does not know of this methods, it may be difficult for them to know to to de-crypt this message. The reciever must replace each letter of the message with the letter that comes before it to reveal the real message."
+  },
+  {
+    "id": "numeric",
+    "name": "Numerical Code",
+    "description": "This Numeric code replaces each letter of the alphabet with it's corresponding numerical position in the English Alphabet. Each letter is seperated by a period, and each word is seperated by a blank space. This is a Medium level of encryption. The reciever may or may not see the pattern easily. To de-crypt this message, they must replace the numbers with the corrsponding letters of the alphabet.  "
+  },
+
+  {
+    "id": "binary",
+    "name": "Binary Code",
+    "description": "Each letter of the alphabet is replaced by it's equivalent in Binary code. This method of encryption is of Medium Level. It becomes clear that the message is in Binary code since it is in 0s and 1s. The reciever can de-crypt this message by putting it in a translator for Binary Code."
+  },
+
+  {
+    "id": "reverse",
+    "name": "Reverse Code",
+    "description": "Each word of the sentence is reversed. This methods is quite easy to decrypt, as it is often apparent that words have been reversed. The reciever can just write the words in the correct order to read the message."
+  }
+]
